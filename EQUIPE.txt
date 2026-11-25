@@ -1,9 +1,28 @@
-PROJET DE COMPILATION
-Du texte d'une expression régulière à l'automate
+TP de Techniques de compilation
+Du texte d’une expression régulière à l’automate
+Année universitaire : 2026-2027
 
-MEMBRES DE L'ÉQUIPE
+Étudiant 1 : Chahd Ben Mansoura
+Numéro d'inscription : 13038649
 
-1. Amen allah Noamane
-2. Nawras Haddad
-3. Shahd Ben Mansour
+Parties réalisées :
+- Analyse lexicale.
+- Grammaire LL(1).
+- Calcul des ensembles FIRST et FOLLOW.
+- Rédaction et mise en forme du rapport.
 
+Étudiant 2 : Nawras Haddad
+Numéro d'inscription : 15351571
+
+Parties réalisées :
+- Schéma de traduction.
+- Construction de Thompson.
+- Jeu de tests.
+
+Étudiant 3 : Amen Noamane
+Numéro d'inscription : 11460941
+
+Parties réalisées :
+- Export Graphviz.
+- Simulation des automates.
+- Numérotation des états sans variable globale.

@@ -1,0 +1,8 @@
+digraph AFN {
+  rankdir=LR;
+  node [shape=circle];
+  __start [shape=point];
+  __start -> 0;
+  1 [shape=doublecircle];
+  0 -> 1 [label="a"];
+}
