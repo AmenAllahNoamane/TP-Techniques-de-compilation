@@ -1,0 +1,9 @@
+PROJET DE COMPILATION
+Du texte d'une expression régulière à l'automate
+
+MEMBRES DE L'ÉQUIPE
+
+1. Amen allah Noamane
+2. Nawras Haddad
+3. Shahd Ben Mansour
+
